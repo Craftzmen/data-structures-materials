@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "stack": "cpp"
+    },
+    "github.copilot.nextEditSuggestions.fixes": true,
+    "github.copilot.nextEditSuggestions.enabled": false,
+    "github.copilot.chat.codeGeneration.useInstructionFiles": true,
+    "C_Cpp.errorSquiggles": "disabled"
+}
